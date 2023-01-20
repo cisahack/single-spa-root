@@ -1,1 +1,1 @@
-# single-spa-test
+# single-spa-root
